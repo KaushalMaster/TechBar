@@ -1,0 +1,43 @@
+package.json -> type: "module" is used to write import statement instead of require
+		statement
+
+Frontend:
+react
+react-router: navigation
+formik + yup: form and form-validation
+redux-toolkit: state management
+redux with persistant: for storing data in localstorage
+react dropzone: for image upload
+
+Backend:
+node js: runtime
+express js: framework
+mongoose: for managing mongo databases
+JWT: for authentication
+multer: file upload
+
+Packages: installed
+
+express: library
+body-parser: to process the request body
+bcrypt: for password encryption
+cors: cross-origin request
+dotenv: requirement variables
+gridfs-stream: for file upload
+multer
+multer-gridfs-storage: to upload files locally
+helmet: request safety
+morgan: for logging
+jsonwebtoken: for authentication
+mongoose: for database
+
+
+MONGO-DB  password:
+
+email: kaushal.pdpusem5@gmail.com
+password: MMMM@@@@1234
+
+.env file ->
+
+Mongo-username: testuser
+password: testuser123
